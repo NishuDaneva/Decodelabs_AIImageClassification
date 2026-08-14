@@ -69,7 +69,7 @@ For each selected image, the program displays:
 - Final prediction
 - Confidence score of the final prediction
 
-## 📊 Sample Result
+### 📊 Sample Result
 
 For the test image used during development, the model produced:
 
@@ -114,8 +114,7 @@ The program will then analyze the image and display the top five predictions.
 
 ## 📋 Example Output
 
-```markdown
-## 📋 Example Output
+
 
 ```text
 ========================================
