@@ -143,6 +143,7 @@ Please select an image...
 
 Prediction : book_jacket
 Confidence : 34.25%
+```
 
 ## ⚠️ Note
 
