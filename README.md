@@ -111,6 +111,10 @@ Choose a `.jpg`, `.jpeg`, or `.png` image.
 
 The program will then analyze the image and display the top five predictions.
 
+
+### 📋 Example Output
+
+```markdown
 ## 📋 Example Output
 
 ```text
@@ -127,19 +131,18 @@ Please select an image...
           TOP 5 PREDICTIONS
 ========================================
 
-1. limousine : 30.91%
-2. beach_wagon : 25.63%
-3. minivan : 9.39%
-4. convertible : 3.43%
-5. jeep : 1.93%
+1. book_jacket : 34.25%
+2. doormat : 20.77%
+3. bottlecap : 4.84%
+4. packet : 3.93%
+5. carton : 2.46%
 
 ========================================
           FINAL PREDICTION
 ========================================
 
-Prediction : limousine
-Confidence : 30.91%
-```
+Prediction : book_jacket
+Confidence : 34.25%
 
 ## ⚠️ Note
 
