@@ -87,7 +87,7 @@ Confidence : 34.25%
 
 Here is the AI Image Classification system running in the terminal:
 
-![AI Image Classification Demo](classification-demo.png)
+![AI Image Classification Demo](./classification-demo.png)
 
 ## ▶️ How to Run
 
