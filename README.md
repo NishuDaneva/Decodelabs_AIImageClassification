@@ -112,7 +112,7 @@ Choose a `.jpg`, `.jpeg`, or `.png` image.
 The program will then analyze the image and display the top five predictions.
 
 
-### 📋 Example Output
+## 📋 Example Output
 
 ```markdown
 ## 📋 Example Output
