@@ -74,15 +74,14 @@ For each selected image, the program displays:
 For the test image used during development, the model produced:
 
 ```text
-1. limousine : 30.91%
-2. beach_wagon : 25.63%
-3. minivan : 9.39%
-4. convertible : 3.43%
-5. jeep : 1.93%
+1. book_jacket : 34.25%
+2. doormat : 20.77%
+3. bottlecap : 4.84%
+4. packet : 3.93%
+5. carton : 2.46%
 
-Prediction : limousine
-Confidence : 30.91%
-```
+Prediction : book_jacket
+Confidence : 34.25%
 
 ## 📸 Demo
 
