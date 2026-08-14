@@ -82,6 +82,7 @@ For the test image used during development, the model produced:
 
 Prediction : book_jacket
 Confidence : 34.25%
+```
 
 ## 📸 Demo
 
